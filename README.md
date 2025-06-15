@@ -23,7 +23,6 @@ Este projeto implementa um simulador de batalha por turnos com temática de fant
 - **Pilhas (`list`):** Usadas para implementar o histórico de ações e a função de desfazer.
 - **Google Colab:** Ambiente de desenvolvimento interativo.
 - **Git & GitHub:** Para controle de versão e hospedagem do código.
-- **Trello:** Para gerenciamento de tarefas do projeto.
 
 ---
 
@@ -46,12 +45,12 @@ Uma operação crítica analisada foi o **processamento de um turno completo**. 
 
 | Nome                                     | Papel no Projeto                  | GitHub                                    |
 | ---------------------------------------- | --------------------------------- | ----------------------------------------- |
-| [Júlia Oliveira Dias]                 | Desenvolvedor e Gerente de Projeto | [link para seu perfil no GitHub]          |
+| Júlia Oliveira Dias                 | Desenvolvedor e Gerente de Projeto | [[link para seu perfil no GitHub](https://github.com/jjulinha)]          |
 
 
 ### 🔗 Links do Projeto
 
-- **Repositório:** `[COLE AQUI O LINK DO SEU REPOSITÓRIO NO GITHUB]`
+- **Repositório:** `(https://github.com/jjulinha/simulador-batalha-rpg)`
 
 ### 📄 Licença
 
