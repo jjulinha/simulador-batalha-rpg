@@ -45,7 +45,7 @@ Uma operação crítica analisada foi o **processamento de um turno completo**. 
 
 | Nome                                     | Papel no Projeto                  | GitHub                                    |
 | ---------------------------------------- | --------------------------------- | ----------------------------------------- |
-| Júlia Oliveira Dias                 | Desenvolvedor e Gerente de Projeto | [[link para seu perfil no GitHub](https://github.com/jjulinha)]          |
+| Júlia Oliveira Dias                 | Desenvolvedor e Gerente de Projeto | [[link para meu perfil no GitHub](https://github.com/jjulinha)]          |
 
 
 ### 🔗 Links do Projeto
